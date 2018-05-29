@@ -1,2 +1,3 @@
 # zootopia
-Pet boarding / holiday kennel for pets (smådyrkennel)
+Smådyrkennel med GUI - Informasjonen fra skjema lagres i lokal XML
+
